@@ -12,5 +12,9 @@
     $y = 'saurav';
     echo $x + $y;
     ?>
+    <?php
+    $a = 20;
+    echo $a;
+    ?>
 </body>
 </html>
