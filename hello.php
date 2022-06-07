@@ -14,7 +14,8 @@
     ?>
     <?php
     $a = 20;
-    echo $a;
+    $b = 10;
+    echo $a + $b;
     ?>
 </body>
 </html>
